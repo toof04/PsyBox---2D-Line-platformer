@@ -1,0 +1,140 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!61 &1500932638
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3907541179255795052}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 4.64, y: 4.72}
+    newSize: {x: 4.64, y: 4.72}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 4.64, y: 4.72}
+  m_EdgeRadius: 0
+--- !u!95 &1500932635
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3907541179255795052}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 6e65588e1132bc24699f98a8251db2d4, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &1500932634
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3907541179255795052}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2494f087d3281b94f82b652457a834cb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1001 &8407947130275655434
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -4425533606137904538, guid: 2ea81412e9ea9624a83aafa2d7d1c83b,
+        type: 3}
+      propertyPath: m_Name
+      value: 027-Marijuana (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 498475590822467370, guid: 2ea81412e9ea9624a83aafa2d7d1c83b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 222.8399
+      objectReference: {fileID: 0}
+    - target: {fileID: 498475590822467370, guid: 2ea81412e9ea9624a83aafa2d7d1c83b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 10.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 498475590822467370, guid: 2ea81412e9ea9624a83aafa2d7d1c83b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.778228
+      objectReference: {fileID: 0}
+    - target: {fileID: 498475590822467370, guid: 2ea81412e9ea9624a83aafa2d7d1c83b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 498475590822467370, guid: 2ea81412e9ea9624a83aafa2d7d1c83b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 498475590822467370, guid: 2ea81412e9ea9624a83aafa2d7d1c83b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 498475590822467370, guid: 2ea81412e9ea9624a83aafa2d7d1c83b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 498475590822467370, guid: 2ea81412e9ea9624a83aafa2d7d1c83b,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 498475590822467370, guid: 2ea81412e9ea9624a83aafa2d7d1c83b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 498475590822467370, guid: 2ea81412e9ea9624a83aafa2d7d1c83b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 498475590822467370, guid: 2ea81412e9ea9624a83aafa2d7d1c83b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 498475590822467370, guid: 2ea81412e9ea9624a83aafa2d7d1c83b,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 7243324766535440047, guid: 2ea81412e9ea9624a83aafa2d7d1c83b,
+    type: 3}
+--- !u!1 &3907541179255795052 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -4425533606137904538, guid: 2ea81412e9ea9624a83aafa2d7d1c83b,
+    type: 3}
+  m_PrefabInstance: {fileID: 8407947130275655434}
+  m_PrefabAsset: {fileID: 0}

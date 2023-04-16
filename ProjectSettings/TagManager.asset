@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - line
+  - enemy
+  - musical
+  - pill
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Lines
+  - GroundLayer
+  - enemies
+  - Shine
+  - wall
+  - Triangle
+  - player
+  - post process
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: UI
+    uniqueID: 589126061
+    locked: 0
+  - name: particles
+    uniqueID: 2012406015
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: world
+    uniqueID: 2725354413
+    locked: 0
+  - name: black
+    uniqueID: 3907224345
+    locked: 0
+  - name: background
+    uniqueID: 2553852793
+    locked: 0
+  - name: midground
+    uniqueID: 1710491973
+    locked: 0
+  - name: forground
+    uniqueID: 2104564611
+    locked: 0
+  - name: lines
+    uniqueID: 2584219717
+    locked: 0
+  - name: lineTop
+    uniqueID: 176234059
+    locked: 0
